@@ -1,4 +1,4 @@
-# Multi-EasyGostPro一键脚本使用指南
+# Multi-EasyGost一键脚本使用指南
 ***
 ## 感谢: 
 1. 感谢 @ginuerzh 大佬开发的 [gost](https://github.com/ginuerzh/gost) 隧道程序 ，功能强大使用简单，想要详细了解的朋友可以查看[官方文档](https://docs.ginuerzh.xyz/gost/)
